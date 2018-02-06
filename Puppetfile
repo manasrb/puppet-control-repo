@@ -36,4 +36,8 @@ mod 'role',
 mod 'profile',
   : git  => 'https://github.com/manasrb/profile',
   : ref  => 'master'
-  
+ 
+mod 'account',
+  : git  => 'https://github.com/manasrb/account',
+  : ref  => 'master'
+ 
