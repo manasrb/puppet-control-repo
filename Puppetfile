@@ -18,26 +18,26 @@ mod "puppetlabs/apache",      '1.11.1'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 mod 'package',
-  : git  => 'https://github.com/manasrb/package',
+  :git  => 'https://github.com/manasrb/package',
   :ref   => 'master'
 
 mod 'httpd',
-  : git => 'https://github.com/manasrb/httpd',
-  : ref => 'master'
+  :git => 'https://github.com/manasrb/httpd',
+  :ref => 'master'
 
 mod 'multiplatform',
-  : git  => 'https://github.com/manasrb/multiplatform',
-  : ref  => 'master'
+  :git  => 'https://github.com/manasrb/multiplatform',
+  :ref  => 'master'
 
 mod 'role',
-  : git  => 'https://github.com/manasrb/role',
-  : ref  => 'master'
+  :git  => 'https://github.com/manasrb/role',
+  :ref  => 'master'
 
 mod 'profile',
-  : git  => 'https://github.com/manasrb/profile',
-  : ref  => 'master'
+  :git  => 'https://github.com/manasrb/profile',
+  :ref  => 'master'
  
 mod 'account',
-  : git  => 'https://github.com/manasrb/account',
-  : ref  => 'master'
+  :git  => 'https://github.com/manasrb/account',
+  :ref  => 'master'
  
