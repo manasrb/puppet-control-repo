@@ -34,10 +34,10 @@ mod 'multiplatform',
 
 mod 'role',
   :git  => 'https://github.com/manasrb/role',
-  :ref  => 'development'
+  :ref  => 'master'
 
 mod 'profile',
   :git  => 'https://github.com/manasrb/profile',
-  :ref  => 'development'
+  :ref  => 'master'
  
  
