@@ -19,22 +19,22 @@ mod "puppetlabs/apache",      '1.11.1'
 #  :branch => 'docs_experiment'
 mod 'package',
   :git  => 'https://github.com/manasrb/package',
-  :ref   => 'production'
+  :ref   => 'master'
 
 mod 'httpd',
   :git => 'https://github.com/manasrb/httpd',
-  :ref => 'production'
+  :ref => 'master'
 
 mod 'multiplatform',
   :git  => 'https://github.com/manasrb/multiplatform',
-  :ref  => 'production'
+  :ref  => 'master'
 
 mod 'role',
   :git  => 'https://github.com/manasrb/role',
-  :ref  => 'production'
+  :ref  => 'master'
 
 mod 'profile',
   :git  => 'https://github.com/manasrb/profile',
-  :ref  => 'production'
+  :ref  => 'master'
  
  
