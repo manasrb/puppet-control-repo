@@ -32,7 +32,7 @@ mod 'multiplatform',
 
 mod 'role',
   :git  => 'https://github.com/manasrb/role',
-  :ref  => 'master'
+  :ref  => 'development'
 
 mod 'profile',
   :git  => 'https://github.com/manasrb/profile',
